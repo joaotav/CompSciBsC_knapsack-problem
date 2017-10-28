@@ -11,4 +11,4 @@ Example:
 450 3
 
 # To run the code:
-Compile with g++ and run ./<executable> <txt>
+Compile with g++ and run .//<executable/> /<txt/>
