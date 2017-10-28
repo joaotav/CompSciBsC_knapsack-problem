@@ -3,7 +3,7 @@ The Knapsack Problem is an optimization problem. Given a set of items each with 
 
 The code takes a text file as input via command line argument. The first line must contain the total size of the knapsack and the number of items listed in the following lines, then each line must contain a pair of values for the value and weight of the item.
 
-Example:
+Example:   
 5 4    
 500 4    
 400 2    
