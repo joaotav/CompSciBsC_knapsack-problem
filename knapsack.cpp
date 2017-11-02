@@ -46,5 +46,5 @@ for(i = 1; i < n+1; i++){
 }
 
 cout << "Result: " << V[n * (M+1) + M] << endl;
-
+delete(v, p, V);
 }
